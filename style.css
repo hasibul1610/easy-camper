@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url(images/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-position: fixed;
+}
+
+.explore{
+    padding: 80px 50px;
+    z-index: 1;
+    margin-top: -180px;
+    box-shadow: 0px 4px 100px rgba(0, 0, 0, 0.1);
+}
